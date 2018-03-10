@@ -1,0 +1,12 @@
+export const C_KEY='C';
+export const CE_KEY='CE';
+export const DELETE_KEY='Del';
+export const DIVISION_KEY='/';
+export const MULTIPLICATION_KEY='*';
+export const ADDITION_KEY='+';
+export const SUBTRACTION_KEY='-';
+export const OPRATOR_KEY='Operator';
+export const EQAUL='=';
+export const DOT_KEY='.';
+export const PERCENTAGE_KEY='%';
+export const NUMBER_KEY='Number';
